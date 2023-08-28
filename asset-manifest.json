@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/stackoverflow-static/static/css/main.06ab7fc2.css",
+    "main.js": "/stackoverflow-static/static/js/main.75dc6300.js",
+    "static/js/787.2fd5dfea.chunk.js": "/stackoverflow-static/static/js/787.2fd5dfea.chunk.js",
+    "static/media/tag-svgrepo-com.svg": "/stackoverflow-static/static/media/tag-svgrepo-com.4db0b0e0fe79657347d80370af056a6a.svg",
+    "static/media/thumbs-up-regular.svg": "/stackoverflow-static/static/media/thumbs-up-regular.3547f03bd2d75bc4f6ca5f73eff47465.svg",
+    "static/media/eye-regular.svg": "/stackoverflow-static/static/media/eye-regular.898a052b5bd5402e80bcc5bac0f7f58c.svg",
+    "static/media/users-group-rounded-svgrepo-com.svg": "/stackoverflow-static/static/media/users-group-rounded-svgrepo-com.af6cd68218ef7c56af4fe0a4c4f7062e.svg",
+    "static/media/message-regular.svg": "/stackoverflow-static/static/media/message-regular.4d39f7acc7be9c2d6ba85e4fe0498d1c.svg",
+    "index.html": "/stackoverflow-static/index.html",
+    "static/media/pen-solid.svg": "/stackoverflow-static/static/media/pen-solid.3e867354f169d8553a3d58662a2c0ce1.svg",
+    "static/media/magnifying-glass-solid.svg": "/stackoverflow-static/static/media/magnifying-glass-solid.6d5ef3dedce5936774892ecc516286be.svg",
+    "static/media/stack-overflow.svg": "/stackoverflow-static/static/media/stack-overflow.265a72d52fa82dac73f3988e8a0fc04a.svg",
+    "static/media/bookmark-solid.svg": "/stackoverflow-static/static/media/bookmark-solid.a90fddd4b6adc8c14e6d3ada02c3e593.svg",
+    "static/media/message-solid.svg": "/stackoverflow-static/static/media/message-solid.f2e7cb30d001339b1625ecae74a70b16.svg",
+    "main.06ab7fc2.css.map": "/stackoverflow-static/static/css/main.06ab7fc2.css.map",
+    "main.75dc6300.js.map": "/stackoverflow-static/static/js/main.75dc6300.js.map",
+    "787.2fd5dfea.chunk.js.map": "/stackoverflow-static/static/js/787.2fd5dfea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06ab7fc2.css",
+    "static/js/main.75dc6300.js"
+  ]
+}
