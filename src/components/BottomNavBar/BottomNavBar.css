@@ -1,0 +1,36 @@
+/* BottomNavbar.css */
+.bottom-navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    padding: 25px 80px;
+  }
+  
+  .navbar-logo {
+    font-size: 1.4rem;
+    font-weight: bold;
+  }
+  
+  .navbar-links {
+    display: flex;
+  }
+  
+  .navbar-section {
+    display: flex;
+    flex-direction: column;
+    margin-right: 100px;
+  }
+  
+  .navbar-links a {
+    color: white;
+    text-decoration: none;
+    margin-bottom: 15px;
+    font-size: 15px;
+  }
+  
+  .navbar-links a:hover {
+    text-decoration: underline;
+  }
+  
